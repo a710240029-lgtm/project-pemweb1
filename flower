@@ -1,0 +1,41 @@
+<html>
+<head>
+    <title>Fresh Cut Flowers</title>
+    <meta name="description" content="Explore a variety of fresh cut flowers for gifts and home decoration.">
+    <meta charset="UTF-8">
+</head>
+<body>
+    <!-- Title -->
+    <h1>Fresh Cut Flowers</h1>
+
+    <!-- Rose Section -->
+    <h2>Red Rose</h2>
+    <p>The Red Rose, known for its deep color and sweet fragrance, is a classic symbol of love and a favorite for gifts.</p>
+    <p>Price: $18</p>
+    <svg width="200" height="260" viewBox="0 0 200 260" role="img" aria-label="Red Rose">
+        <!-- stem and leaves -->
+        <path d="M100 120 C95 170 105 210 100 255" stroke="#2e7d32" stroke-width="6" fill="none"/>
+        <path d="M100 190 C70 170 55 175 45 190 C65 205 90 205 100 190Z" fill="#43a047"/>
+        <path d="M102 215 C130 195 148 200 158 215 C138 230 112 230 102 215Z" fill="#43a047"/>
+        <!-- petals -->
+        <circle cx="100" cy="85" r="55" fill="#b71c1c"/>
+        <circle cx="100" cy="85" r="42" fill="#d32f2f"/>
+        <circle cx="100" cy="85" r="29" fill="#c62828"/>
+        <circle cx="100" cy="85" r="16" fill="#e53935"/>
+        <path d="M100 85 m-10 0 a10 10 0 1 1 10 10" stroke="#8e0000" stroke-width="3" fill="none"/>
+    </svg>
+
+    <!-- Tulip Section -->
+    <h2>Tulip</h2>
+    <p>The Tulip, with its smooth cup-shaped petals and bright colors, brings a fresh spring feel to any room.</p>
+    <p>Price: $14</p>
+    <svg width="200" height="260" viewBox="0 0 200 260" role="img" aria-label="Tulip">
+        <!-- stem and leaves -->
+        <path d="M100 120 L100 255" stroke="#2e7d32" stroke-width="6" fill="none"/>
+        <path d="M100 250 C60 220 50 170 70 140 C85 175 95 210 100 250Z" fill="#43a047"/>
+        <path d="M100 250 C140 220 150 170 130 140 C115 175 105 210 100 250Z" fill="#388e3c"/>
+        <!-- petals -->
+        <path d="M60 50 C55 100 75 130 100 130 C125 130 145 100 140 50 C125 65 112 60 100 40 C88 60 75 65 60 50Z" fill="#ec407a"/>
+        <path d="M100 40 C85 70 85 105 100 130 C115 105 115 70 100 40Z" fill="#f06292"/>
+    </svg>
+</body>
